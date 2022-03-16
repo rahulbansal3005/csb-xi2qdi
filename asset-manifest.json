@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://rahulbansal3005.github.io/csb-xi2qdi/static/js/main.919444d2.chunk.js",
+    "main.js.map": "https://rahulbansal3005.github.io/csb-xi2qdi/static/js/main.919444d2.chunk.js.map",
+    "runtime-main.js": "https://rahulbansal3005.github.io/csb-xi2qdi/static/js/runtime-main.9ffbe646.js",
+    "runtime-main.js.map": "https://rahulbansal3005.github.io/csb-xi2qdi/static/js/runtime-main.9ffbe646.js.map",
+    "static/js/2.eb2f9976.chunk.js": "https://rahulbansal3005.github.io/csb-xi2qdi/static/js/2.eb2f9976.chunk.js",
+    "static/js/2.eb2f9976.chunk.js.map": "https://rahulbansal3005.github.io/csb-xi2qdi/static/js/2.eb2f9976.chunk.js.map",
+    "index.html": "https://rahulbansal3005.github.io/csb-xi2qdi/index.html",
+    "static/js/2.eb2f9976.chunk.js.LICENSE.txt": "https://rahulbansal3005.github.io/csb-xi2qdi/static/js/2.eb2f9976.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ffbe646.js",
+    "static/js/2.eb2f9976.chunk.js",
+    "static/js/main.919444d2.chunk.js"
+  ]
+}
